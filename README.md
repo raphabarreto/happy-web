@@ -27,8 +27,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ## 💻 Projeto
-Projeto desenvolvido durante a <strong>Next Level Week</strong> que tem como objetivo fins educacions.
-O <strong>happy</strong> serve como uma plaforma de ensino, motivado devido ao perído de isolamento que estamos enfrentando. Fazendo uma conexão entre professores e pessoas que querem aprender.
+Projeto desenvolvido durante a <strong>Next Level Week</strong> que tem como objetivo fins sociais.
+O <strong>Happy</strong> serve como uma plaforma de conexão com instituições de orfanatos.
+---
 
 ---
 
