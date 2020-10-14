@@ -29,20 +29,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Projeto desenvolvido durante a <strong>Next Level Week</strong> que tem como objetivo fins sociais.
 O <strong>Happy</strong> serve como uma plaforma de conexão com instituições de orfanatos.
----
 
 ---
 
 ## 🌐 Frontend - Em construção
-<!-- <h1 align="center">
-    <img alt="happy Front-end" title="#delicinha" src="https://raw.githubusercontent.com/raphabarreto/happy/master/.github/happy-frontend.gif" />
-</h1> -->
+<h1 align="center">
+    <img alt="happy Front-end" title="#delicinha" src="https://github.com/raphabarreto/happy/blob/main/.github/happy-frontend.gif?raw=true" />
+</h1>
 
 ___
 
-## 🔥 Instalação - Em construção
+## 🔥 Instalação
 
-<!-- ```bash
+```bash
 # Navegue até a pasta raiz e instale as depedências:
 $ yarn install
 
@@ -52,7 +51,7 @@ $ acesse a url -> http://localhost:3000
 
 # Observações:
 - Não esqueça de mudar a baseURL no arquivo api.ts que fica na pasta service ip da sua máquina.
-``` -->
+```
 ---
 
 ## 🤔 Como contribuir
